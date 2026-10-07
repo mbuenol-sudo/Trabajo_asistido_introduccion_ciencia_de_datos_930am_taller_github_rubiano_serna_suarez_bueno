@@ -3,7 +3,7 @@
 # Joy Buolamwini: Gender Shades
 </div>
 
-- ## ¿Quién es Joy Buolamwini?
+## ¿Quién es Joy Buolamwini?
 
 
 
@@ -12,17 +12,18 @@
 
 
   
-- ## Problemática
-  Durante el entrenamiento de los sistemas de reconocimiento facial se utilizaron en su mayoría datos de personas del género masculino y personas de piel clara, es decir, no      representa de manera equilibrada a toda la población, y por esta razón, dichos sistemas pueden reproducir los sesgos y desigualdades que se perciben en nuestra sociedad . 
+## Problemática
+Durante el entrenamiento de algunos de los sistemas de reconocimiento facial se utilizaron en su mayoría datos de personas del género masculino y personas de piel clara, es     decir, no representa de manera equilibrada a toda la población, y por esta razón, dichos sistemas pueden reproducir los sesgos y desigualdades que se perciben en nuestra sociedad. 
 
-  Como consecuencia, algunas tecnologías podían estar más expuestas a una mayor tasa de error al identificar ciertos grupos poblacionales, específicamente personas de piel        oscura y mujeres. Esto se convierte en problemas muchísimo más graves cuando estos sistemas de identificación son usados para tomar decisiones que puedan afectar directamente   a personas, como en procesos policiales o de seguridad (Mosley, 2023). 
+Como consecuencia, algunas tecnologías podían estar más expuestas a una mayor tasa de error al identificar ciertos grupos poblacionales, específicamente personas de piel        oscura y mujeres. Esto se convierte en problemas muchísimo más graves cuando estos sistemas de identificación son usados para tomar decisiones que puedan afectar directamente   a personas, como en procesos policiales o de seguridad (Mosley, 2023). 
 
-  El interés de Joy Boulamwini para estudiar los sesgos de la inteligencia artificial nació mientras ella realizaba un proyecto artístico en el MIT Media Lab, donde los           computadores usaban sistemas de reconocimiento facial. Ella se dio cuenta de que dichos sistemas de reconocimiento no detectaban su resto, por lo que creyó que se trataba de    un error en el sistema. Pero al investigar más a fondo, esto se trataba de un sesgo que tenía el sistema para detectar su rostro, al ser una mujer de piel oscura (Mosley,       2023). 
+El interés de Joy Buolamwini para estudiar los sesgos de la inteligencia artificial nació mientras ella realizaba un proyecto artístico en el MIT Media Lab, donde los           computadores usaban sistemas de reconocimiento facial. Ella se dio cuenta de que dichos sistemas de reconocimiento no detectaban su rostro, por lo que creyó que se trataba de    un error en el sistema. Pero al investigar más a fondo, esto se trataba de un sesgo que tenía el sistema para detectar su rostro, al ser una mujer de piel oscura (Mosley,       2023). 
 
-  <div align="center">
+<div align="center">
 ![Foto_1](Imagen_reconocimiento_facial.jpg)
+
   
-  
+ </div> 
 
 
 
@@ -30,7 +31,7 @@
 
 
 
-- ## Proyecto
+## Proyecto
 
 ### ¿De qué trata el proyecto?
 *Gender Shades* es un proyecto de investigación liderado por Joy Buolamwini, con Timnit Gebru como coautora, que analiza el rendimiento de sistemas comerciales de análisis facial según el género y el tono de piel. El trabajo fue publicado en 2018.
@@ -126,4 +127,4 @@ El proyecto demuestra que en ciencia de datos no basta con conocer qué tan prec
 
   
 - ## Conclusión
- 
+En conclusión, Joy Buolamwini detectó que los sistemas de reconocimiento facial fallan con quienes no se ajustan a los conjuntos de datos predeterminados, generando sesgos que constituyen más que un problema técnico, ya que esto puede transformarse en desigualdades y discriminación sobre ciertos grupos. Gracias a su proyecto Buolamwini no solo visibilizó el problema, sino que auditó grandes empresas tecnológicas para que estas revisarán y mejorarán sus tecnologías de reconocimiento facial, enfatizando en la necesidad de regular la IA para asegurar que su uso sea ético y vaya de la mano con los derechos humanos de todo individuo sin importar su género o su raza.
