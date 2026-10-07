@@ -5,6 +5,7 @@
 </div>
 
 ## ¿Quién es Joy Buolamwini?
+Es una cientifica informática, investigadora y activista digital, reconocida por su trabajo en la identificación y denuncia del sesgo algorítmico y de género en los sistemas de inteligencia artificial, especialmente en el reconocimiento facial.
 
 ### Trayectoria
 - **Estudios**
@@ -20,8 +21,6 @@
     - Es la autora del libro "Unmasking IA"
       
   
-
-
   
 ## Problemática
 Durante el entrenamiento de algunos de los sistemas de reconocimiento facial se utilizaron en su mayoría datos de personas del género masculino y personas de piel clara, es     decir, no representa de manera equilibrada a toda la población, y por esta razón, dichos sistemas pueden reproducir los sesgos y desigualdades que se perciben en nuestra sociedad. 
