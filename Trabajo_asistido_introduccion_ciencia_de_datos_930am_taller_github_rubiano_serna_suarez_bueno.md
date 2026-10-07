@@ -17,7 +17,7 @@ Es una cientifica informática, investigadora y activista digital, reconocida po
 - **Estudios**
     - Hizo una licenciatura en Ciencias de la Computación en Georgia Tech en el año 2012.
     - Hizo una maestría en Oxford como Rhode Scholar en el año 2013.
-    - Hizo un doctorado en el MIT Media LAb entre los años 2015 y 2022.
+    - Hizo un doctorado en el MIT Media Lab entre los años 2015 y 2022.
 
 - **Trabajos importantes**
     - Fundo la Algorithmic Justice League, la cual funciona para denunciar los diferentes sesgos que puede haber en la inteligencia artificial.
