@@ -19,7 +19,9 @@
 
   El interés de Joy Boulamwini para estudiar los sesgos de la inteligencia artificial nació mientras ella realizaba un proyecto artístico en el MIT Media Lab, donde los           computadores usaban sistemas de reconocimiento facial. Ella se dio cuenta de que dichos sistemas de reconocimiento no detectaban su resto, por lo que creyó que se trataba de    un error en el sistema. Pero al investigar más a fondo, esto se trataba de un sesgo que tenía el sistema para detectar su rostro, al ser una mujer de piel oscura (Mosley,       2023). 
 
-
+  <div align="center">
+  ![Foto_1](Imagen_reconocimiento_facil.jpg)
+  
 
 
 
