@@ -122,7 +122,7 @@ No existe una fuente oficial que establezca un número determinado de etapas par
 Estas etapas son una forma de organizar el proceso de investigación, no una división oficial hecha por los autores.
 
 ### ¿Qué encontraron?
-Los resultados mostraron diferencias importantes en el rendimiento de los sistemas. Los tres sistemas evaluados presentaron sus mayores tasas de error al clasificar a mujeres de piel más oscura.(Buolamwini & Gebru, 2018).
+Los resultados mostraron diferencias importantes en el rendimiento de los sistemas. Los tres sistemas evaluados presentaron sus mayores tasas de error al clasificar a mujeres de piel más oscura (Buolamwini & Gebru, 2018).
 
 > En uno de los resultados reportados, la tasa de error llegó hasta 34,7 % para mujeres de piel más oscura, mientras que el máximo registrado para hombres de piel más clara fue de 0,8 % (Buolamwini & Gebru, 2018).
 
@@ -134,7 +134,7 @@ El proyecto proporciona información útil para investigadores, desarrolladores 
 También es relevante para las personas que utilizan estas tecnologías, porque permite identificar diferencias de rendimiento que podrían pasar desapercibidas al observar únicamente la precisión general.
 
 ### ¿Qué impacto tuvo?
-*Gender shades* contribuyó a visibilizar los problemas de rendimiento desigual en sistemas comerciales de análisis facial y a impulsar una evaluación más detallada de estos sistemas.(Buolamwini & Gebru, 2018)
+*Gender shades* contribuyó a visibilizar los problemas de rendimiento desigual en sistemas comerciales de análisis facial y a impulsar una evaluación más detallada de estos sistemas (Buolamwini & Gebru, 2018).
 
 Además, después de que se publicaran los resultados, las empresas cuyos sistemas fueron evaluados realizaron cambios en sus tecnologías. Investigaciones posteriores encontraron mejoras en el rendimiento y una reducción de las diferencias entre grupos.(Actionable Auditing, 2023).
 
