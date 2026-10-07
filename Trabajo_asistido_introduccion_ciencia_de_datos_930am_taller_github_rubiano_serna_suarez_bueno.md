@@ -4,7 +4,11 @@
 **Integrantes:** Ángel Gabriel Rubiano García, Mariana Bueno López, Simón Serna Valencia y Sofía Suárez Beltrán
 </div>
 
+<div align="center">
+  
 ![Foto2](joy.jpeg)
+
+</div>
 
 ## ¿Quién es Joy Buolamwini?
 Es una cientifica informática, investigadora y activista digital, reconocida por su trabajo en la identificación y denuncia del sesgo algorítmico y de género en los sistemas de inteligencia artificial, especialmente en el reconocimiento facial.
