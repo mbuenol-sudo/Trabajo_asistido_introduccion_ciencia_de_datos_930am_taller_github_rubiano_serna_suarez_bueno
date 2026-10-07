@@ -5,11 +5,21 @@
 </div>
 
 ## ¿Quién es Joy Buolamwini?
+es una científica informática, investigadora y activista digital ghanesa-estadounidense-canadiense, reconocida mundialmente por su trabajo pionero en la identificación y denuncia del sesgo algorítmico y de género en los sistemas de inteligencia artificial (IA), especialmente en el reconocimiento facial.
+### Trayectoria
+- **Estudios**
+    - Hizo una licenciatura en Ciencias de la Computación en Georgia Tech en el año 2012.
+    - Hizo una maestría en Oxford como Rhode Scholar en el año 2013.
+    - Hizo un doctorado en el MIT Media LAb entre los años 2015 y 2022.
 
+- **Trabajos importantes**
+    - Fundo la Algorithmic Justice League, la cual funciona para denunciar los diferentes sesgos que puede haber en la inteligencia artificial.
+    - Su investigación conocida como "Gender Shades" la cual mostro que el reconocimiento facial fallaba en gran parte con mujeres de piel oscura.
 
-
-
-
+- **Otros logros**
+    - Es la autora del libro "Unmasking IA"
+      
+  
 
 
   
