@@ -48,10 +48,10 @@ El interés de Joy Buolamwini para estudiar los sesgos de la inteligencia artifi
 ## Proyecto
 
 ### ¿De qué trata el proyecto?
-*Gender Shades* es un proyecto de investigación liderado por Joy Buolamwini, con Timnit Gebru como coautora, que analiza el rendimiento de sistemas comerciales de análisis facial según el género y el tono de piel. El trabajo fue publicado en 2018.
+*Gender Shades* es un proyecto de investigación liderado por Joy Buolamwini, con Timnit Gebru como coautora, que analiza el rendimiento de sistemas comerciales de análisis facial según el género y el tono de piel. El trabajo fue publicado en 2018. (Buolamwini & Gebru, 2018).
 
 ### ¿Quiénes participaron?
-El proyecto contó principalmente con Joy Buolamwini y Timnit Gebru. También participaron Helen Raynham como experta clínica, Deborah Raji en operaciones de datos y Ethan Zuckerman como asesor.
+El proyecto contó principalmente con Joy Buolamwini y Timnit Gebru. También participaron Helen Raynham como experta clínica, Deborah Raji en operaciones de datos y Ethan Zuckerman como asesor.(Gender Shades, 2018).
 
 <details>
 <summary> Personas que participaron </summary>
@@ -70,11 +70,12 @@ El proyecto contó principalmente con Joy Buolamwini y Timnit Gebru. También pa
 
 ### ¿Cómo se desarrolló?
 Después de identificar la problemática, los investigadores analizaron los conjuntos de datos disponibles para evaluar sistemas de reconocimiento facial. Encontraron que algunos tenían una representación desigual de la población, por lo que desarrollaron el ***Pilot Parliaments Benchmark*** 
-**(PPB)**
+**(PPB)**.(Buolamwini & Gebru, 2018).
 
 > El PPB contiene 1.270 imágenes de personas y fue diseñado para permitir una evaluación más equilibrada según género y tono de piel (Buolamwini & Gebru, 2018).
 
-Posteriormente, utilizaron este conjunto de datos para evaluar tres sistemas comerciales de clasificación de género desarrollados por IBM, Microsoft y Face++. Compararon los resultados obtenidos por cada sistema y analizaron sus tasas de error entre diferentes grupos.
+Posteriormente, utilizaron este conjunto de datos para evaluar tres sistemas comerciales de clasificación de género desarrollados por IBM, Microsoft y Face++. Compararon los resultados obtenidos por cada sistema y analizaron sus tasas de error entre diferentes grupos.(Buolamwini & Gebru, 2018)
+
 
 **El proceso fue:**
 <div align="center">
@@ -117,27 +118,28 @@ No existe una fuente oficial que establezca un número determinado de etapas par
 Estas etapas son una forma de organizar el proceso de investigación, no una división oficial hecha por los autores.
 
 ### ¿Qué encontraron?
-Los resultados mostraron diferencias importantes en el rendimiento de los sistemas. Los tres sistemas evaluados presentaron sus mayores tasas de error al clasificar a mujeres de piel más oscura.
+Los resultados mostraron diferencias importantes en el rendimiento de los sistemas. Los tres sistemas evaluados presentaron sus mayores tasas de error al clasificar a mujeres de piel más oscura.(Buolamwini & Gebru, 2018).
 
 > En uno de los resultados reportados, la tasa de error llegó hasta 34,7 % para mujeres de piel más oscura, mientras que el máximo registrado para hombres de piel más clara fue de 0,8 % (Buolamwini & Gebru, 2018).
 
-Esto evidenció que la precisión general de un sistema puede ocultar diferencias importantes entre grupos.
+Esto demostró que la precisión general de un sistema puede ocultar diferencias importantes entre grupos.
 
 ### ¿A quién ayuda?
-El proyecto proporciona información útil para investigadores, desarrolladores y empresas que trabajan con inteligencia artificial, ya que muestra la importancia de evaluar los sistemas utilizando datos representativos y de analizar su rendimiento en diferentes grupos.
+El proyecto proporciona información útil para investigadores, desarrolladores y empresas que trabajan con inteligencia artificial, ya que muestra la importancia de evaluar los sistemas utilizando datos representativos y de analizar su rendimiento en diferentes grupos.(Buolamwini & Gebru, 2018).
 
 También es relevante para las personas que utilizan estas tecnologías, porque permite identificar diferencias de rendimiento que podrían pasar desapercibidas al observar únicamente la precisión general.
 
 ### ¿Qué impacto tuvo?
-*Gender shades* contribuyó a visibilizar los problemas de rendimiento desigual en sistemas comerciales de análisis facial y a impulsar una evaluación más detallada de estos sistemas.
+*Gender shades* contribuyó a visibilizar los problemas de rendimiento desigual en sistemas comerciales de análisis facial y a impulsar una evaluación más detallada de estos sistemas.(Buolamwini & Gebru, 2018)
 
-Además, después de que se publicaran los resultados, las empresas cuyos sistemas fueron evaluados realizaron cambios en sus tecnologías. Investigaciones posteriores encontraron mejoras en el rendimiento y una reducción de las diferencias entre grupos.
+Además, después de que se publicaran los resultados, las empresas cuyos sistemas fueron evaluados realizaron cambios en sus tecnologías. Investigaciones posteriores encontraron mejoras en el rendimiento y una reducción de las diferencias entre grupos.(Actionable Auditing, 2023).
 
 ### ¿Por qué es importante para la ciencia de datos?
 El proyecto demuestra que en ciencia de datos no basta con conocer qué tan preciso es un modelo en general. También es necesario analizar para quién funciona, con qué precisión y qué grupos pueden verse más afectados por sus errores.
 
 > [!NOTE]
 > **Idea principal:** no basta con conocer la precisión general de un modelo; también es necesario analizar cómo funciona para diferentes grupos.
+
 
   
 ## Conclusión
