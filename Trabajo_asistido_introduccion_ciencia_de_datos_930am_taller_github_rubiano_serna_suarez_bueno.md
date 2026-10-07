@@ -5,7 +5,7 @@
 </div>
 
 ## ¿Quién es Joy Buolamwini?
-es una científica informática, investigadora y activista digital ghanesa-estadounidense-canadiense, reconocida mundialmente por su trabajo pionero en la identificación y denuncia del sesgo algorítmico y de género en los sistemas de inteligencia artificial (IA), especialmente en el reconocimiento facial.
+
 ### Trayectoria
 - **Estudios**
     - Hizo una licenciatura en Ciencias de la Computación en Georgia Tech en el año 2012.
