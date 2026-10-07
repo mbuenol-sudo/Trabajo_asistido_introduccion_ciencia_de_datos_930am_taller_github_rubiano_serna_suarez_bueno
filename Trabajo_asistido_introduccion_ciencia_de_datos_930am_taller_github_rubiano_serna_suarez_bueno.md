@@ -1,6 +1,7 @@
 <div align="center">
   
 # Joy Buolamwini: Gender Shades
+**Integrantes:** Ángel Gabriel Rubiano García, Mariana Bueno López, Simón Serna Valencia y Sofía Suárez Beltrán
 </div>
 
 ## ¿Quién es Joy Buolamwini?
@@ -131,8 +132,10 @@ El proyecto demuestra que en ciencia de datos no basta con conocer qué tan prec
 ## Conclusión
 En conclusión, Joy Buolamwini detectó que los sistemas de reconocimiento facial fallan con quienes no se ajustan a los conjuntos de datos predeterminados, generando sesgos que constituyen más que un problema técnico, ya que esto puede transformarse en desigualdades y discriminación sobre ciertos grupos. Gracias a su proyecto Buolamwini no solo visibilizó el problema, sino que auditó grandes empresas tecnológicas para que estas revisarán y mejorarán sus tecnologías de reconocimiento facial, enfatizando en la necesidad de regular la IA para asegurar que su uso sea ético y vaya de la mano con los derechos humanos de todo individuo sin importar su género o su raza.
 
+## Referencias Bibliográficas
 <details>
-  <summary> # Referencias Bibliográficas </summary>
+  <summary>  Haz clic para desplegar las referencias bibliográficas </summary>
+  
   - Mosley, T. (2023, noviembre 28). 'Unmasking AI' author Joy Buolamwini says prejudice is baked into technology. NPR. Retrieved October 7, 2026, from https://www.npr.org/2023/11/28/1215529902/unmasking-ai-facial-recognition-technology-joy-buolamwini
 
 </detaisl>
