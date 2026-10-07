@@ -4,6 +4,8 @@
 **Integrantes:** Ángel Gabriel Rubiano García, Mariana Bueno López, Simón Serna Valencia y Sofía Suárez Beltrán
 </div>
 
+![Foto2](joy.jpeg)
+
 ## ¿Quién es Joy Buolamwini?
 Es una cientifica informática, investigadora y activista digital, reconocida por su trabajo en la identificación y denuncia del sesgo algorítmico y de género en los sistemas de inteligencia artificial, especialmente en el reconocimiento facial.
 
@@ -146,6 +148,11 @@ En conclusión, Joy Buolamwini detectó que los sistemas de reconocimiento facia
   <summary>  Haz clic para desplegar las referencias bibliográficas </summary>
   
   - Mosley, T. (2023, noviembre 28). 'Unmasking AI' author Joy Buolamwini says prejudice is baked into technology. NPR. Retrieved October 7, 2026, from https://www.npr.org/2023/11/28/1215529902/unmasking-ai-facial-recognition-technology-joy-buolamwini
+  - Oxford AI Ethics. (s. f.). Doctor Joy Buolamwini. Accelerator Fellowship Programme, Institute for Ethics in AI, University of Oxford. https://afp.oxford-aiethics.ox.ac.uk/people/dr-joy-buolamwini
+- MIT Media Lab. (2018, 27 de junio). 35 Innovators Under 35 | Visionaries | Joy Buolamwini. https://www.media.mit.edu/articles/35-innovators-under-35-visionaries-joy-buolamwini/
+- Carnegie Corporation of New York. (2020). Joy Buolamwini. Great Immigrants. https://carnegie.org/great-immigrants/joy-buolamwini/
+- Forbes. (s. f.). Joy Buolamwini. https://www.forbes.com/profile/joy-buolamwini/
+- TIME. (2023). Joy Buolamwini: The 100 Most Influential People in AI 2023. https://time.com/collections/time100-ai/6310661/joy-buolamwini-ai/
 
 </detaisl>
 
