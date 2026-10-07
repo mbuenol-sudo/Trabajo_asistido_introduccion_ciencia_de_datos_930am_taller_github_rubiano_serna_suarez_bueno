@@ -103,17 +103,17 @@ Posteriormente, utilizaron este conjunto de datos para evaluar tres sistemas com
 ### ¿Cuántas etapas tuvo?
 No existe una fuente oficial que establezca un número determinado de etapas para *Gender Shades*. Sin embargo, para explicar su desarrollo se puede organizar el proceso en:
 
-1. Análisis de la problemática.
+**1.** Análisis de la problemática.
 
-2. Revisión de los conjuntos de datos existentes.
+**2.** Revisión de los conjuntos de datos existentes.
 
-3. Creación del PPB.
+**3.** Creación del PPB.
 
-4. Evaluación de los sistemas comerciales.
+**4.** Evaluación de los sistemas comerciales.
 
-5. Comparación y análisis de los resultados.
+**5.** Comparación y análisis de los resultados.
 
-6. Publicación de los resultados.
+**6.** Publicación de los resultados.
 
 Estas etapas son una forma de organizar el proceso de investigación, no una división oficial hecha por los autores.
 
@@ -155,6 +155,12 @@ En conclusión, Joy Buolamwini detectó que los sistemas de reconocimiento facia
 - Carnegie Corporation of New York. (2020). Joy Buolamwini. Great Immigrants. https://carnegie.org/great-immigrants/joy-buolamwini/
 - Forbes. (s. f.). Joy Buolamwini. https://www.forbes.com/profile/joy-buolamwini/
 - TIME. (2023). Joy Buolamwini: The 100 Most Influential People in AI 2023. https://time.com/collections/time100-ai/6310661/joy-buolamwini-ai/
+- Buolamwini, J., & Gebru, T. (2018). Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification. Proceedings of Machine Learning Research, 81, 77–91. https://proceedings.mlr.press/v81/buolamwini18a.html
+- Gender Shades. (2018). Gender Shades. https://gendershades.org/
+- MIT Media Lab. (s. f.). Gender Shades.https://www.media.mit.edu/projects/gender-shades/overview/
+- MIT Media Lab. (s. f.). Gender Shades: Frequently Asked Questions. https://www.media.mit.edu/projects/gender-shades/faq/
+- MIT Media Lab. (s. f.). Gender Shades: Press Kit.   https://www.media.mit.edu/projects/gender-shades/press-kit/
+- MIT Media Lab. (s. f.). Actionable Auditing: Coordinated bias disclosure study. https://www.media.mit.edu/projects/actionable-auditing-coordinated-bias-disclosure-study/overview/
 
 </detaisl>
 
