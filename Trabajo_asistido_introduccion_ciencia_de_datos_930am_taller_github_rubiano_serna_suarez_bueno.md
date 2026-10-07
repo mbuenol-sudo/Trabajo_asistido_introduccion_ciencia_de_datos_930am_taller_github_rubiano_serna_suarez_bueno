@@ -20,7 +20,9 @@ Como consecuencia, algunas tecnologías podían estar más expuestas a una mayor
 El interés de Joy Buolamwini para estudiar los sesgos de la inteligencia artificial nació mientras ella realizaba un proyecto artístico en el MIT Media Lab, donde los           computadores usaban sistemas de reconocimiento facial. Ella se dio cuenta de que dichos sistemas de reconocimiento no detectaban su rostro, por lo que creyó que se trataba de    un error en el sistema. Pero al investigar más a fondo, esto se trataba de un sesgo que tenía el sistema para detectar su rostro, al ser una mujer de piel oscura (Mosley,       2023). 
 
 <div align="center">
-![Foto_1](Imagen_reconocimiento_facial.jpg)
+
+  ![Foto1](facial.jpg)
+
 
   
  </div> 
@@ -126,5 +128,12 @@ El proyecto demuestra que en ciencia de datos no basta con conocer qué tan prec
 > **Idea principal:** no basta con conocer la precisión general de un modelo; también es necesario analizar cómo funciona para diferentes grupos.
 
   
-- ## Conclusión
+## Conclusión
 En conclusión, Joy Buolamwini detectó que los sistemas de reconocimiento facial fallan con quienes no se ajustan a los conjuntos de datos predeterminados, generando sesgos que constituyen más que un problema técnico, ya que esto puede transformarse en desigualdades y discriminación sobre ciertos grupos. Gracias a su proyecto Buolamwini no solo visibilizó el problema, sino que auditó grandes empresas tecnológicas para que estas revisarán y mejorarán sus tecnologías de reconocimiento facial, enfatizando en la necesidad de regular la IA para asegurar que su uso sea ético y vaya de la mano con los derechos humanos de todo individuo sin importar su género o su raza.
+
+<details>
+  <summary> # Referencias Bibliográficas </summary>
+  - Mosley, T. (2023, noviembre 28). 'Unmasking AI' author Joy Buolamwini says prejudice is baked into technology. NPR. Retrieved October 7, 2026, from https://www.npr.org/2023/11/28/1215529902/unmasking-ai-facial-recognition-technology-joy-buolamwini
+
+</detaisl>
+
